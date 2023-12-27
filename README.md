@@ -15,7 +15,7 @@ falo um pouco dos programas que gosto de jogar e os streamer que acompanho abaix
 </p>
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="./assets/capa.png">
 </p>
 
 <br>
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 
-- [Visite o projeto online] (https://peppy-monstera-a06cfa.netlify.app//)
+- [Visite o projeto online] (https://khnum782.github.io/Nlw_eSports/)
 
 ## 🔖 Layout
 
